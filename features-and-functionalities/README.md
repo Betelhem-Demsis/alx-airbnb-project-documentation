@@ -1,0 +1,1 @@
+![Page](https://github.com/Betelhem-Demsis/alx-airbnb-project-documentation/blob/main/features-and-functionalities/airbnbDiagram.drawio.png)
